@@ -67,3 +67,47 @@ h1 {
 .banner-info p {
     margin: 1rem 0;
 }
+
+
+h2 {
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+    margin: 3rem 0;
+}
+
+
+.info-flex {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin-bottom: 8rem;
+}
+
+.info-items {
+    width: 15%;
+}
+
+.info-items p {
+    margin-top: 1rem;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    padding: 8rem 0;
+}
+
+.quote-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.quote-author {
+    font-size: 1.5rem;
+    text-align: right;
+    font-style: normal;
+    color: #1f2937;
+    font-weight: bold;
+}
